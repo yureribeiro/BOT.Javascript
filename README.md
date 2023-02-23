@@ -13,9 +13,6 @@ com ``document.querySelector('')`` , dentro do metodo ``.evaluate`` da lib puppe
 
 para "conversar" com bot pelo terminal e escolher (x moeda para y moeda) a ser cotada.
 
-para selecionar o valor da página, basta inspecionar a class do Input no navegador, e chama-lo 
-com ``document.querySelector('xxx')`` , dentro do metodo ``.evaluate`` da lib puppeteer.
-
 com o readline-sync o bot fica bem mais dinâmico.
 
 ![fotoprojetorobo1](https://user-images.githubusercontent.com/114265734/220841804-ee91910d-f9ea-4d31-8d05-c006d1a3ed29.png)
