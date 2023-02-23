@@ -7,7 +7,7 @@ utilizando a lib "puppeteer" para criar automação usando node.js e buscar a co
 para selecionar o valor da pagina, basta inspecionar a class do Input no navegador, e chama-lo 
 com ``document.querySelector('')`` , dentro do metodo ``.evaluate`` da lib puppeteer.
 
-##Atualização:
+## Atualização:
 
 ``npm i readline-sync`` 
 
